@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import Berniceimg from '../public/assets/Bernice.jpg';
+import mattBernieimg from '../public/assets/mattBernie.jpg';
 
 const About = () => {
   return (
@@ -31,7 +31,7 @@ const About = () => {
           </Link>
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-          <Image src={Berniceimg} className='rounded-xl' alt='/' />
+          <Image src={mattBernieimg} className='rounded-xl' alt='/' />
         </div>
       </div>
     </div>
