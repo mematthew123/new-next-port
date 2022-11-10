@@ -31,7 +31,7 @@ const Main = () => {
               </div>
             </a>
             <a
-              href='https://github.com/memmatthew123'
+              href='https://github.com/mematthew123'
               target='_blank'
               rel='noreferrer'
             >
